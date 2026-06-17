@@ -2,11 +2,11 @@
 
 ## Overview
 
-This project presents the design and implementation of a 32-bit Single Cycle RISC-V Processor using Verilog HDL. The processor supports the core RV32I instruction set, including arithmetic, logical, immediate, branch, jump, load, and store operations.
+This project presents the design and implementation of a **32-bit Single Cycle RISC-V Processor** using **Verilog HDL**. The processor supports the core RV32I instruction set, including arithmetic, logical, immediate, branch, jump, load, and store operations.
 
-The processor was designed following the standard single-cycle architecture where each instruction completes execution within a single clock cycle. The design consists of modular datapath and control-path components, enabling instruction fetch, decode, execution, memory access, and write-back operations.
+The processor was designed following the standard single-cycle architecture where each instruction completes execution within a single clock cycle. The design consists of modular **datapath** and **control-path** components, enabling instruction fetch, decode, execution, memory access, and write-back operations.
 
-Each module was individually verified through simulation and functional testing before system-level integration. The complete processor functionality was validated by successfully executing a Fibonacci Series program on a Basys 3 FPGA board and displaying the generated sequence on the onboard seven-segment display.
+Each module was individually verified through simulation and functional testing before system-level integration. The complete processor functionality was validated by successfully executing a **Fibonacci Series** program on a **Basys 3 FPGA** board and displaying the generated sequence on the onboard seven-segment display.
 
 ---
 
