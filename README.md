@@ -286,8 +286,8 @@ The generated Fibonacci sequence was displayed on the onboard seven-segment disp
 
 ## Author
 
-Sree
+Adapa Prajusha Sree
 
-B.Tech, Electrical Engineering
+B.Tech, Electronics and communication Engineering
 
 Indian Institute of Technology Bhubaneswar
